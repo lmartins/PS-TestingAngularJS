@@ -1,0 +1,29 @@
+body{
+  font-family: "Proxima Nova", Helvetica, Arial;
+  margin: 0;
+}
+
+.container{
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.Page{
+  width: 90%;
+  margin: 0 auto;
+  background: #eee;
+  padding: 1em;
+}
+
+
+input.ng-invalid.ng-dirty{
+  background-color: pink;
+}
+
+.text-warning{
+  color: red;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}

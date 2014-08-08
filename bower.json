@@ -1,0 +1,14 @@
+{
+  "author": "Luis Martins",
+  "name": "tuts",
+  "version": "0.1.0",
+  "dependencies": {
+    "angular-route": "~1.2.20",
+    "angular-resource": "~1.2.20",
+    "jquery": "~2.1.1",
+    "angular-cookies": "~1.2.21",
+    "ngLocale": "*",
+    "angular-sanitize": "~1.2.21",
+    "angular": "~1.2.21"
+  }
+}
